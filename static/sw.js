@@ -1,6 +1,8 @@
-importScripts("/contact/mathematics.js");
-importScripts("/contact/geography.js");
-importScripts("/contact/english.js");
+//mathematics to respect,algebra to scratch, english to turbowarp
+importScripts("/respect/respect.js");
+importScripts("/respect/scratch.js");
+importScripts("/respect/turbowarp.js");
+
 
 const sw = new UVServiceWorker();
 let userKey = new URL(location).searchParams.get('userkey');
