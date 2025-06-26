@@ -1,4 +1,4 @@
-//mathematics to respect,algebra to scratch, english to turbowarp
+//mathematics to respect,geography to scratch, english to turbowarp
 importScripts("/respect/respect.js");
 importScripts("/respect/scratch.js");
 importScripts("/respect/turbowarp.js");
