@@ -1,5 +1,5 @@
 {
-  "name": "Wakame",
+  "name": "yuki",
   "version": "1.0.1",
   "type": "module",
   "engines": {
@@ -19,7 +19,7 @@
     "express-session": "^1.18.1",
     "express": "^4.18.2",
     "miniget": "latest",
-    "ytpl": "^2.x",
+    "ytpl": "latest",
     "ytsr": "latest",
     "axios": "^1.7.9"
   },
