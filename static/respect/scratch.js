@@ -1,10 +1,1 @@
-self.__uv$config = {
-    prefix: '/reviews/',
-    bare: '/outerspace/',
-    encodeUrl: Ultraviolet.codec.xor.encode,
-    decodeUrl: Ultraviolet.codec.xor.decode,
-    handler: '/respect/packager.js',
-    bundle: '/respect/respect.js',
-    config: '/respect/scratch.js',
-    sw: '/respect/turbowarp.js'
-};
+function _0x43d5(_0x4e5f30,_0x4e59d8){var _0x4f3649=_0x4f36();return _0x43d5=function(_0x43d5e7,_0x94a29b){_0x43d5e7=_0x43d5e7-0x19c;var _0x4d2878=_0x4f3649[_0x43d5e7];return _0x4d2878;},_0x43d5(_0x4e5f30,_0x4e59d8);}var _0x5862ca=_0x43d5;(function(_0x7da947,_0x5d274b){var _0x36825a=_0x43d5,_0x2a97b3=_0x7da947();while(!![]){try{var _0x260f1c=parseInt(_0x36825a(0x1a4))/0x1+parseInt(_0x36825a(0x1a0))/0x2+-parseInt(_0x36825a(0x19c))/0x3+-parseInt(_0x36825a(0x1a7))/0x4+parseInt(_0x36825a(0x1a6))/0x5+parseInt(_0x36825a(0x1a3))/0x6*(-parseInt(_0x36825a(0x1a2))/0x7)+parseInt(_0x36825a(0x1a8))/0x8;if(_0x260f1c===_0x5d274b)break;else _0x2a97b3['push'](_0x2a97b3['shift']());}catch(_0x216773){_0x2a97b3['push'](_0x2a97b3['shift']());}}}(_0x4f36,0x83160),self[_0x5862ca(0x1a1)]={'prefix':'/reviews/','bare':_0x5862ca(0x1ab),'encodeUrl':Ultraviolet[_0x5862ca(0x1a9)]['xor'][_0x5862ca(0x19d)],'decodeUrl':Ultraviolet['codec'][_0x5862ca(0x19e)][_0x5862ca(0x1aa)],'handler':'/respect/packager.js','bundle':'/respect/respect.js','config':_0x5862ca(0x19f),'sw':_0x5862ca(0x1a5)});function _0x4f36(){var _0x15b35f=['63LGgEqp','668484iXPTAg','377338TieHtS','/respect/turbowarp.js','1281795elXSGO','3033064bSkDQO','8235616FXvWVw','codec','decode','/outerspace/','994587grNeJz','encode','xor','/respect/scratch.js','1932600AmuLGl','__uv$config'];_0x4f36=function(){return _0x15b35f;};return _0x4f36();}
